@@ -1,0 +1,21 @@
+{
+    "indexes": [
+      {
+        "collectionGroup": "plants",
+        "queryScope": "COLLECTION",
+        "fields": [
+          { "fieldPath": "name", "order": "ASCENDING" },
+          { "fieldPath": "wateringFrequency", "order": "ASCENDING" }
+        ]
+      },
+      {
+        "collectionGroup": "plants",
+        "queryScope": "COLLECTION",
+        "fields": [
+          { "fieldPath": "lastWatered", "order": "DESCENDING" }
+        ]
+      }
+    ],
+    "fieldOverrides": []
+  }
+  

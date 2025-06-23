@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "682222536355",
+    "firebase_url": "https://plant-watering-system-e97b9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "plant-watering-system-e97b9",
+    "storage_bucket": "plant-watering-system-e97b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682222536355:android:4184eb2eb37fb5925ba116",
+        "android_client_info": {
+          "package_name": "com.anonymous.plant_watering_frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAysSsntjfq-NFIcnStIbnca7YyUdyVD00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

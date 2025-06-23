@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "SoilMoisture": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
